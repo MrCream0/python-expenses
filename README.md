@@ -18,6 +18,8 @@ python hourly_wage_calculator.py
 
 5. The GUI will open, allowing you to interact with the Hourly Wage Calculator.
 
+6. You can also download the .zip and open the dist directory if your on windows and open the executable
+
 ## Features
 
 ### Expenses
