@@ -12,15 +12,9 @@ This is a Python project that provides a graphical user interface (GUI) for calc
 
 pip install tkinter
 
-markdown
-Copy code
-
 4. Run the `hourly_wage_calculator.py` script:
 
 python hourly_wage_calculator.py
-
-vbnet
-Copy code
 
 5. The GUI will open, allowing you to interact with the Hourly Wage Calculator.
 
