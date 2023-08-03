@@ -13,18 +13,20 @@ Make sure you have Python installed on your system.
 
 Install the required dependencies:
 
-Copy code
+```python
 pip install tkinter
-Run the hourly_wage_calculator.py script:
+```
+Run the main.py script:
 
-Copy code
-python hourly_wage_calculator.py
+```python
+python main.py
+```
 The GUI will open, allowing you to interact with the Hourly Wage Calculator.
 
 Features
-Expenses
+**Expenses:**
 Users can input custom expenses (name and value) and view the list of expenses.
-Delete Expenses
+Delete Expenses:
 Users can select an expense from the list and delete it.
 Working Hours
 Users can input the number of working hours per week.
